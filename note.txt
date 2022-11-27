@@ -1,0 +1,2 @@
+This is a note for this porject
+it is a CRUD operation project
